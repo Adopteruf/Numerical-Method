@@ -1,0 +1,3 @@
+The numerical way for solving I.V.P. and B.V.P..
+The approach to I.V.P. starts from simple euler method
+Further, by applying other efficient numerical approximation, we can obtain a more efficient and accurate method such as the modified Euler Method which combines the Euler Method and the Trapezoidal Formula.

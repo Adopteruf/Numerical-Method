@@ -1,0 +1,12 @@
+Here are 7 classical method for solving the one variable equations in numerical way.
+1. Bisection Method
+2. Fixed Point Iteration Method
+3. Newton's Method
+4. Secant Method
+5. Method of False Position
+6. Aitken's deta2 Method(can be applied on many methods here shows the application on Newton's Method)
+7. Steffense's Method(can be applied on many methods here shows the application on Newton's Method)
+
+Problem applied:
+2: f(s) = -1.1.*s.*log(s*) - s, find s s.t. f(s*) = 0
+1,3,4,5,6,7: f(s) = s.^3 - s.^2 - s - 1, find s s.t. f(s) = 0.
